@@ -1,0 +1,26 @@
+h1 {
+  font-weight: lighter;
+  font-family: fantasy;
+  text-align: center;
+}
+
+img {
+float: right;
+margin-left:50px;
+padding-top:20px;
+
+}
+
+body {
+  background-color: #BF533D;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
+
+ol {
+  border: dotted Black;
+  text-align: left;
+}
